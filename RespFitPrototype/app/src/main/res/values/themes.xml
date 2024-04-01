@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.RespFitPrototype" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">@color/teal_700</item>
+    </style>
+    <style name="Theme.App.SplashScreen" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/teal_700</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/splashimg</item>
+        <item name="postSplashScreenTheme">@style/Theme.RespFitPrototype</item>
+    </style>
+
+</resources>

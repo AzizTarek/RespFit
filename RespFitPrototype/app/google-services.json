@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "514041800763",
+    "project_id": "respfit-9fd8d",
+    "storage_bucket": "respfit-9fd8d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:514041800763:android:171109fc0f24593d5dd41e",
+        "android_client_info": {
+          "package_name": "com.example.respfitprototype"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "514041800763-8caqp9atdautufert6bicfqn8uifhrq1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtcmIKayZB2_yu51xGy-soxnCgKOfsIgI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "514041800763-8caqp9atdautufert6bicfqn8uifhrq1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
