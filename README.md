@@ -1,5 +1,5 @@
 # RespFit: Empowering Respiratory Patients through Fitness and Health
-#Introduction
+Introduction
 RespFit is a revolutionary mobile application designed specifically for respiratory patients aiming to enhance their weight management and athletic capacity. Developed through extensive research and collaborative design efforts, RespFit stands out as a user-focused solution that prioritizes the unique needs of individuals with respiratory conditions.
 
 Background
